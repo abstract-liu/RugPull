@@ -20,7 +20,6 @@ doc/source/modules
 cache/
 
 # Output files from decompiler
-*.facts
 
 # NodeJS temp files
 .node-xmlhttprequest*
@@ -52,7 +51,6 @@ results.json
 *_compiled
 *_compiled
 *.ccerr
-*.cpp
 
 # testing files
 .tests/**
