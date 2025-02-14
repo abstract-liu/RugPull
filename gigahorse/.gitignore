@@ -52,7 +52,7 @@ results.json
 *_compiled
 *.ccerr
 *.o
-*
+*_tests
 
 # testing files
 .tests/**
